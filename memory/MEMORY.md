@@ -1,0 +1,2 @@
+- [Hồ sơ người dùng](user_profile.md) — Đang học DSA từ cơ bản, dùng Kotlin, giao tiếp tiếng Việt
+- [Tiến độ học DSA](dsa_progress.md) — Theo dõi tiến độ 8 phase, bài LeetCode đã giải
